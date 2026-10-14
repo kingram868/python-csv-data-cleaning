@@ -1,0 +1,11 @@
+
+SALES DATA CLEANING REPORT
+==========================
+
+Total cleaned rows: 5
+Valid amounts: 3
+Missing or invalid amounts: 2
+Total valid sales: $410.50
+Average sale: $136.83
+
+Output file: sales_cleaned.csv
