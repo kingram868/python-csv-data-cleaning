@@ -29,3 +29,9 @@ python clean_sales.py
 python make_report.py
 
 This project uses synthetic sample data, not client data.
+
+### Run the project
+
+```bash
+python clean_sales.py
+python make_report.py
